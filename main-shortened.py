@@ -17,7 +17,7 @@ you = youDict[youstr]
 print(f"You chose {reverseDict[you]}\nComputer chose {reverseDict[computer]}")
 
 if (computer == you):
-    print("It's a draw")
+    print("It's a Draw")
 
 else:
     '''
